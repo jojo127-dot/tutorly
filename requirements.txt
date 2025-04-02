@@ -1,0 +1,11 @@
+django
+djangorestframework
+psycopg2-binary
+numpy
+pandas
+scikit-learn
+tensorflow
+surprise
+matplotlib
+seaborn
+ECHO is on.
